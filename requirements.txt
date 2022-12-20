@@ -10,7 +10,6 @@ coreapi==2.3.3
 coreschema==0.0.4
 cryptography==35.0.0
 defusedxml==0.7.1
-distlib==0.3.3]
 djoser==2.1.0
 docutils==0.19
 filelock==3.3.2
